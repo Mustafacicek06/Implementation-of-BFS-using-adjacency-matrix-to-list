@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\90542\source\repos\vectorAdjacency\vectorAdjacency\main.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\90542\source\repos\vectorAdjacency\vectorAdjacency\main.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\90542\source\repos\vectorAdjacency\vectorAdjacency\main.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\90542\source\repos\vectorAdjacency\vectorAdjacency\main.cpp(46,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\90542\source\repos\vectorAdjacency\vectorAdjacency\main.cpp(79,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\90542\source\repos\vectorAdjacency\vectorAdjacency\main.cpp(111,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\90542\source\repos\vectorAdjacency\vectorAdjacency\main.cpp(191,23): warning C4018: '<': signed/unsigned mismatch
+  vectorAdjacency.vcxproj -> C:\Users\90542\source\repos\vectorAdjacency\Debug\vectorAdjacency.exe
